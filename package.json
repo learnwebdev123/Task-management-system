@@ -1,0 +1,12 @@
+{
+  "name": "task-management-system",
+  "version": "1.0.0",
+  "description": "A collaborative task tracking and management application built with Node.js and Express.js that enables teams to organize, assign, and track tasks efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
